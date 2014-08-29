@@ -1,3 +1,17 @@
+# Config files with private credentials or locally-specific values:
+config/mysql.json
+config/drupal.json
+config/local-paths.json
+config/download/pubmed.json
+config/download/worldcat.json
+
+# Exclude downloaded data files:
+downloads/**/*.gz
+downloads/**/*.xml
+
+# Exclude log files:
+log/*.log
+
 composer.phar
 vendor/
 
