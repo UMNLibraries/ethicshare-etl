@@ -1,0 +1,6 @@
+{
+ "sources": {"url": "New York Times"},
+ "xmlRecordClass": "\\UmnLib\\Core\\XmlRecord\\FeedItem\\Nyt",
+ "xmlRecordFileClass": "\\UmnLib\\Core\\XmlRecord\\File\\Feed"
+}
+

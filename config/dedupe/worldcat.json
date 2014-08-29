@@ -1,0 +1,5 @@
+{
+ "sources": {"oclc":"OCLC"},
+ "xmlRecordClass": "\\UmnLib\\Core\\XmlRecord\\WorldCatMarc",
+ "xmlRecordFileClass": "\\UmnLib\\Core\\XmlRecord\\File\\WorldCatMarc"
+}

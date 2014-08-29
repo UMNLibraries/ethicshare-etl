@@ -1,0 +1,5 @@
+{
+ "sources": {"url":"Time"},
+ "xmlRecordClass": "\\UmnLib\\Core\\XmlRecord\\FeedItem\\Time",
+ "xmlRecordFileClass": "\\UmnLib\\Core\\XmlRecord\\File\\Feed"
+}

@@ -1,0 +1,7 @@
+{
+ "extractorFactoryClass": "CiteEtl_E_LatFactory",
+ "transformerClass": "CiteEtl_T_LatHealth",
+ "loaderClass": "CiteEtl_L_Loader",
+ "loaderLogMessage": "Loaded via an automated, scheduled ETL process.",
+ "memory_limit": "2G"
+}

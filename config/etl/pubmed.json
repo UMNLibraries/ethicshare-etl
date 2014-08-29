@@ -1,0 +1,8 @@
+{
+ "loaderClass": "CiteEtl_L_Loader",
+ "loaderLogMessage": "Loaded via an automated, scheduled ETL process.",
+ "memory_limit": "2G",
+ "inputDirectory": "/var/www/ethicshare-etl/downloads/pubmed/deduped/",
+ "log": "/var/www/ethicshare-etl/log/pubmed-error.log"
+}
+

@@ -1,0 +1,4 @@
+{
+ "drush": "/path/to/drush",
+ "drupal": "/drupal/document/root"
+}

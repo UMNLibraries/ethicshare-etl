@@ -1,0 +1,7 @@
+{
+ "extractorFactoryClass": "CiteEtl_E_ChiTribuneFactory",
+ "transformerClass": "CiteEtl_T_ChiTribune",
+ "loaderClass": "CiteEtl_L_Loader",
+ "loaderLogMessage": "Loaded via an automated, scheduled ETL process.",
+ "memory_limit": "2G"
+}

@@ -1,0 +1,5 @@
+{
+ "sources": {"pubmed":"PubMed"},
+ "xmlRecordClass": "\\UmnLib\\Core\\XmlRecord\\PubMed",
+ "xmlRecordFileClass": "\\UmnLib\\Core\\XmlRecord\\File\\PubMed"
+}

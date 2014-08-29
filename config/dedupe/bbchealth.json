@@ -1,0 +1,5 @@
+{
+ "sources": {"url":"BBC"},
+ "xmlRecordClass": "\\UmnLib\\Core\\XmlRecord\\FeedItem\\Bbc",
+ "xmlRecordFileClass": "\\UmnLib\\Core\\XmlRecord\\File\\Feed"
+}
