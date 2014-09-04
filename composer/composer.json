@@ -1,0 +1,79 @@
+{
+  "name": "umnlib/ethicshare-etl-composer-config",
+  "description": "PHP package dependencies for the Extract-Transform-Load system for EthicShare."
+  "authors": [
+    {
+      "name": "David Naughton",
+      "email": "naughton@umn.edu"
+    }
+  ],
+  "require": {
+    "umnlib/argvalidator": "1.0.*",
+    "umnlib/cite-identifierset": "1.0.*",
+    "umnlib/compressing-file-iterator": "1.0.*",
+    "umnlib/configjson": "1.0.*",
+    "umnlib/file-set-datesequence": "1.0.*",
+    "umnlib/isbn": "1.0.*",
+    "umnlib/localfeed": "1.0.*",
+    "umnlib/mysqli-result-iterator": "1.0.*",
+    "umnlib/ncbi-eutils-client": "1.0.*",
+    "umnlib/pipeline": "1.0.*",
+    "umnlib/set": "1.0.*",
+    "umnlib/worldcat-search": "1.0.*",
+    "umnlib/xml-record": "1.0.*"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/argvalidator-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/cite-identifierset.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/compressing-file-iterator-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/configjson-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/file-set-datesequence-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/isbn-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/localfeed-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/mysqli-result-iterator.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/ncbi-eutils-client-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/pipeline-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/set-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/worldcat-search-php.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:UMNLibraries/xml-record-php.git"
+    }
+  ]   
+}
