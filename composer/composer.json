@@ -1,6 +1,6 @@
 {
   "name": "umnlib/ethicshare-etl-composer-config",
-  "description": "PHP package dependencies for the Extract-Transform-Load system for EthicShare."
+  "description": "PHP package dependencies for the Extract-Transform-Load system for EthicShare.",
   "authors": [
     {
       "name": "David Naughton",
