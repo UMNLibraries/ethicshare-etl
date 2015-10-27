@@ -14,7 +14,7 @@ foreach($apps as $app) {
   $cmd = $app->getRealPath();
   exec($cmd . ' 2>&1', $output, $return);
   if ($return) {
-    $error = array_pop($output);
-    error_log("System call '$cmd' failed: '$error'\n");
+    $error = implode("\n", $output);
+    exit("System call '$cmd' failed: $error\n");
   }
 }
