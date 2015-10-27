@@ -1,5 +1,0 @@
-{
- "sources": {"url":"ProPublica"},
- "xmlRecordClass": "\\UmnLib\\Core\\XmlRecord\\FeedItem\\ProPublica",
- "xmlRecordFileClass": "\\UmnLib\\Core\\XmlRecord\\File\\Feed"
-}
