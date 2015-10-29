@@ -6,8 +6,7 @@ config/download/pubmed.json
 config/download/worldcat.json
 
 # Exclude downloaded data files:
-downloads/**/*.gz
-downloads/**/*.xml
+downloads/
 
 # Exclude log files:
 log/*.log
