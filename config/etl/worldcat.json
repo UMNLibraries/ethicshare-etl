@@ -3,5 +3,5 @@
  "transformerClass": "CiteEtl_T_WorldCatNewSchema",
  "loaderClass": "CiteEtl_L_Loader",
  "loaderLogMessage": "Loaded via an automated, scheduled ETL process.",
- "memory_limit": "2G",
+ "memory_limit": "2G"
 }
