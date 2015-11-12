@@ -50,6 +50,12 @@ Copy these files to new files with identical names, but without the `.dist` exte
 
 Set up a cron job to run `ethicshare-etl/bin/etl-cron.php` at least once a day. UMN Libraries had this set up to run twice a day, at around 1:00 AM and 6:00 AM.
 
+## Architecture
+
+### At a Glance
+
+![ETL Architecture](https://cloud.githubusercontent.com/assets/428609/11128603/69046ef0-8940-11e5-853d-90b60c9e37af.gif)
+
 ## Attribution
 
 The University of Minnesota Libraries created this software for the [EthicShare](http://www.ethicshare.org/about) project.
