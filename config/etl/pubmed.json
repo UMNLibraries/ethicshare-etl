@@ -1,6 +1,6 @@
 {
   "extractorFactoryClass": "CiteEtl_E_PubMedFactory",
-  "transformerClass": "CiteEtl_T_PubMedNewSchema",
+  "transformerClass": "CiteEtl_T_PubMed",
   "loaderClass": "CiteEtl_L_Loader",
   "loaderLogMessage": "Loaded via an automated, scheduled ETL process.",
   "memory_limit": "2G"
