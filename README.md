@@ -135,6 +135,7 @@ We use this app to deduplicate records from all data sources. Each `config/dedup
 
 #### To Do
 
+* Modify the deduplication system to use a database or some other tool with a more powerful index, for faster and more efficient de-duplicating, avoiding all the file IO in the current system. Barring that, or in the meantime at least, use a tool like logrotate to automatically delete old, compressed `*.xml.gz` files. These can quickly fill up disk space.
 * Implement ways of discarding/skipping zero-byte or malformed downloaded files.
 * Improve logging/error-reporting.
 
